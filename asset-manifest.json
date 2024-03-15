@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GymWebsite/static/css/main.0b7b3cca.css",
+    "main.js": "/GymWebsite/static/js/main.fd8e0409.js",
+    "static/js/787.d3163751.chunk.js": "/GymWebsite/static/js/787.d3163751.chunk.js",
+    "static/media/home-img.png": "/GymWebsite/static/media/home-img.4f23c279cd33b8c33a33.png",
+    "static/media/choose-img.png": "/GymWebsite/static/media/choose-img.73bd8705d948e699ceb7.png",
+    "static/media/calculate-img.png": "/GymWebsite/static/media/calculate-img.79693c4cd0df94d9425d.png",
+    "static/media/program2.png": "/GymWebsite/static/media/program2.ecd03e89a676ca3769b6.png",
+    "static/media/program3.png": "/GymWebsite/static/media/program3.430011e33d8961e162b2.png",
+    "static/media/program1.png": "/GymWebsite/static/media/program1.2e5f9ff5b857a35ce630.png",
+    "static/media/program4.png": "/GymWebsite/static/media/program4.60979e430800df594e54.png",
+    "index.html": "/GymWebsite/index.html",
+    "main.0b7b3cca.css.map": "/GymWebsite/static/css/main.0b7b3cca.css.map",
+    "main.fd8e0409.js.map": "/GymWebsite/static/js/main.fd8e0409.js.map",
+    "787.d3163751.chunk.js.map": "/GymWebsite/static/js/787.d3163751.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b7b3cca.css",
+    "static/js/main.fd8e0409.js"
+  ]
+}
